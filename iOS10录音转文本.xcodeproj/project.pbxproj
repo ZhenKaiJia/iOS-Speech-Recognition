@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					7736817F1D85A1C700523764 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 8ELEEZRLRH;
 						ProvisioningStyle = Automatic;
 					};
 					773681981D85A1C700523764 = {
@@ -424,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8ELEEZRLRH;
 				INFOPLIST_FILE = "iOS10录音转文本/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Justin.iOS10-----";
@@ -435,6 +437,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8ELEEZRLRH;
 				INFOPLIST_FILE = "iOS10录音转文本/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Justin.iOS10-----";
